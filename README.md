@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
