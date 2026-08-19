@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
