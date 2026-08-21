@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
