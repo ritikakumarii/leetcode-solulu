@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
