@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,12 +91,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
