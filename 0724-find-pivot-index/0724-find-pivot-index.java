@@ -5,15 +5,16 @@ class Solution {
         for(int i =0; i< n ; i++){
          sum+=nums[i];
         }
-        if (sum-nums[0]==0) return 0;
+        
         
         int left=0;
         int right=0;
-        for(int i =1 ; i< n; i++){
-            left+=nums[i-1];
+        for(int i =0 ; i< n; i++){
+            
             right= sum-nums[i]-left;
+             
            if(left==right) return i;
-           
+           left+=nums[i];
         }
         return -1;
     }
