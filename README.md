@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,18 +74,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
 |  |
@@ -168,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
