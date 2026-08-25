@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0525-contiguous-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
