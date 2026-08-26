@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
 |  |
@@ -184,9 +186,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
