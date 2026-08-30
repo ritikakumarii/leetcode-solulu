@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
