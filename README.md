@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
 |  |
@@ -257,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
