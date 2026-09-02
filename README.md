@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0525-contiguous-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
@@ -277,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
