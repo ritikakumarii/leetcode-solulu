@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1004-max-consecutive-ones-iii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
@@ -305,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
