@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
+| [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
+| [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
+| [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
