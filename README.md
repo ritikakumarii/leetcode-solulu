@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
+| [0520-detect-capital](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1832-check-if-the-sentence-is-pangram) |
