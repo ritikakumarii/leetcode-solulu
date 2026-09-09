@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0056-merge-intervals) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
