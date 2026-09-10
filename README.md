@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0724-find-pivot-index) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2410-maximum-matching-of-players-with-trainers) |
