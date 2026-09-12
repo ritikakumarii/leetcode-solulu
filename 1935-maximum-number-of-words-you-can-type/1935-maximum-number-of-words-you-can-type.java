@@ -13,6 +13,7 @@ class Solution {
         char ch = arr[i].charAt(j);
         if(set.contains(ch)){
             flag =false;
+            break;
         }
     }
     if(flag) count++;
