@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0520-detect-capital) |
+| [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
