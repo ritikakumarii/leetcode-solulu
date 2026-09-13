@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
