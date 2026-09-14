@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3871-count-commas-in-range-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -362,4 +365,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
