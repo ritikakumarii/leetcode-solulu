@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1929-concatenation-of-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
