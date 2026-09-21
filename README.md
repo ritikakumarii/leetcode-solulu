@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0520-detect-capital) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
