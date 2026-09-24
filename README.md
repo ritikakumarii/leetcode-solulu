@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
