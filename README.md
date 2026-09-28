@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
