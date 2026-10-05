@@ -18,7 +18,7 @@ class Solution {
         else{
             temp=temp.next;
         }
-        if(temp.next==null) return head;
+        // if(temp.next==null) return head;
       }
       return head;
     }
