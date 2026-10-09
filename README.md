@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0523-continuous-subarray-sum) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1248-count-number-of-nice-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 | [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 ## Greedy
 |  |
 | ------- |
