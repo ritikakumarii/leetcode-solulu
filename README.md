@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 | [1367-linked-list-in-binary-tree](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1367-linked-list-in-binary-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
