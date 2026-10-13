@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0155-min-stack) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 ## Quicksort
 |  |
