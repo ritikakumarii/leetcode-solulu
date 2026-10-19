@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0520-detect-capital) |
 | [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0844-backspace-string-compare) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1544-make-the-string-great) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikakumarii/leetcode-solulu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/3477-fruits-into-baskets-ii) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
+| [0844-backspace-string-compare](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1544-make-the-string-great) |
 ## Greedy
