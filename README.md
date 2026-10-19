@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0784-letter-case-permutation) |
 | [0899-orderly-queue](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0899-orderly-queue) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1544-make-the-string-great](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1019-next-greater-node-in-linked-list) |
+| [1544-make-the-string-great](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
