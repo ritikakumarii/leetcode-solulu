@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0904-fruit-into-baskets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
