@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0287-find-the-duplicate-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0746-min-cost-climbing-stairs) |
