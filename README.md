@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0074-search-a-2d-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0135-candy) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0213-house-robber-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0832-flipping-an-image) |
