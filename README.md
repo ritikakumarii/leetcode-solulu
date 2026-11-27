@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0189-rotate-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0213-house-robber-ii) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ritikakumarii/leetcode-solulu/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ritikakumarii/leetcode-solulu/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
