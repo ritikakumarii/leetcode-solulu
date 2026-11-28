@@ -5,18 +5,18 @@ class Solution {
     //     return dp[n]= fibo(n-1,dp) +fibo(n-2,dp);
     // }
     public int fib(int n) {
-        if(n<1) return n;
+        if(n<=1) return n;
         int first=0;
         int second=1;
-        int ans=1;
-        if(n>2){
-        for(int i =1 ; i<n-1; i++){
+        
+        for(int i =2 ; i<=n; i++){
+          int ans=first+second;
           first=second;
           second=ans;
-          ans=first+second;
+          
+        
         }
-        }
-        return ans;
+        return second;
     }
         
     }
